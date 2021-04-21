@@ -1,6 +1,4 @@
 
-# Ist heute Kaffe?
-
-nein :/
+# nein :/
 
 Am Samstag wieder :3
