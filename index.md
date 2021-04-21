@@ -1,4 +1,4 @@
 
 # nein :/
 
-Am Samstag wieder :3
+Am Samstag wieder um 16 Uhr :3
