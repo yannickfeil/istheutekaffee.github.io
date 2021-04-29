@@ -1,4 +1,4 @@
 
-# leider nein :/
+# Ja
 
-Morgen wieder um 16 Uhr.
+Um 15:30
