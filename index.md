@@ -2,10 +2,6 @@
 # Ja
 
 
-um 16 Uhr :)
+um 15:30 Uhr :)
 
-[11.05.2021]
-
-
-
-und vergiss die Milch nicht!
+[12.05.2021]
