@@ -1,8 +1,6 @@
 
-# Ja
+# Nein :/
 
 
-um 15:00 Uhr :)
-
-[21.05.2021]
+[bis auf weiteres]
 
