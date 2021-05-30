@@ -1,6 +1,7 @@
 
-# Nein :/
+# Jawoll!
 
+Heute kleine große Neueröffnung!
 
-[bis auf weiteres]
+[31.05.2021]
 
