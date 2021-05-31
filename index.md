@@ -1,7 +1,7 @@
 
 # Jawoll!
 
-Heute kleine große Neueröffnung!
+Um 16 Uhr :)
 
-[31.05.2021]
+[01.06.2021]
 
