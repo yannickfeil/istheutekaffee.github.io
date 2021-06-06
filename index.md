@@ -1,7 +1,8 @@
 
-# nein :/
+# Ja!
 
+so 16 Uhr
+aber 15 ist auch ok
 
-
-[05.06.2021]
+[06.06.2021]
 
