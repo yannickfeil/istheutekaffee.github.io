@@ -1,7 +1,7 @@
 
 # Ja :)
 
-um 16 Uhr
+um 15 Uhr
 in Zimmer 306 Gebäude 1
 
 Es gibt wahlweise Eiskaffee oder normalen Kaffee
