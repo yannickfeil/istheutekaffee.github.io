@@ -3,5 +3,7 @@
 
 um 16 Uhr
 
-[10.06.2021]
+Es gibt wahlweise Eiskaffee oder normalen Kaffee
+
+[12.06.2021]
 
