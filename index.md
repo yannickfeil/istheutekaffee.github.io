@@ -1,10 +1,10 @@
 
 # Ja :)
 
-um 15 Uhr
-in Zimmer 306 Gebäude 1
+um 15 oder 16 Uhr
+in Zimmer 033 Gebäude 2
 
-Es gibt wahlweise Eiskaffee oder normalen Kaffee
+Es gibt Eiskaffee
 
-[12.06.2021]
+[13.06.2021]
 
