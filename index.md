@@ -1,10 +1,11 @@
 
 # Ja :)
 
-um 16 Uhr
-in Zimmer 033 Gebäude 2
+um 15:30 Uhr
 
-Es gibt einen Rest Eiskaffee
+in Zimmer 306 Gebäude 1
 
-[14.06.2021]
+Es gibt Kaffee und Kuchen
+
+[15.06.2021]
 
