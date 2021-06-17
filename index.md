@@ -1,11 +1,11 @@
 
 # Ja :)
 
-um 17:15 Uhr
+um 17:00 Uhr
 
 in Zimmer 306 Gebäude 1
 
-Es gibt Kaffee und Kuchen
+Es gibt Kaffee
 
-[16.06.2021]
+[17.06.2021]
 
