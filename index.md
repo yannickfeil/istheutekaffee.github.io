@@ -1,11 +1,11 @@
 
 # Ja :)
 
-um 16:15 Uhr
+um 16:00 Uhr
 
-in Zimmer 033 Gebäude 2
+in Zimmer 306 Gebäude 1
 
-Es gibt Kaffee, aber traditionell
+Es gibt Kaffee
 
-[27.06.2021]
+[28.06.2021]
 
