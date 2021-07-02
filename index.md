@@ -7,5 +7,5 @@ in Zimmer 306 Gebäude 1
 
 Es gibt Kaffee und Brownies
 
-[01.07.2021]
+[02.07.2021]
 
