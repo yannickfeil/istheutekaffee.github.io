@@ -11,3 +11,10 @@ Es gibt Kaffee und Kuchen
 
 [16.07.2021]
 
+
+### Kicker
+
+Yannick: 1
+Julius:  2
+
+Saison endet am 30.09
