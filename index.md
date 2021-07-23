@@ -1,7 +1,7 @@
 
 # Ja :)
 
-um 16:30 Uhr
+um 16:00 Uhr
 
 in Zimmer 306 Gebäude 1
 
