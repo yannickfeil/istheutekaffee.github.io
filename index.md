@@ -8,13 +8,13 @@ Es gibt Kaffee
 
 <!---![image](https://user-images.githubusercontent.com/73311547/125851712-3934142d-7930-4613-8163-7ba796f7bffd.png)-->
 
-[29.07.2021]
+[30.07.2021]
 
 
 ### Kicker
 
-Yannick: 1
+Yannick: 2
 
-Julius:  5
+Julius:  7
 
 Saison endet am 30.09
