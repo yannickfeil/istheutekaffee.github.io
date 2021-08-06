@@ -13,7 +13,7 @@ Es gibt Kaffee
 
 ### Kicker
 
-Yannick: 18
+Yannick: 20
 
 Julius:  23
 
