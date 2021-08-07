@@ -13,8 +13,8 @@ Es gibt Kaffee und Zimtschnecken
 
 ### Kicker
 
-Yannick: 20
+Yannick: 21
 
-Julius:  23
+Julius:  24
 
 Saison endet am 30.09
