@@ -13,8 +13,8 @@ Es gibt Kaffee und Kuchen
 
 ### Kicker
 
-Yannick: 34
+Yannick: 36
 
-Julius:  36
+Julius:  40
 
 Saison endet am 30.09
