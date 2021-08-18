@@ -13,7 +13,7 @@ Es gibt Kaffee
 
 ### Kicker
 
-Yannick: 40
+Yannick: 41
 
 Julius:  44
 
