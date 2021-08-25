@@ -1,7 +1,7 @@
 
 # Ja :)
 
-um 16:00 Uhr im Raum 306 Gebäude 1
+um 15:00 Uhr im Raum 306 Gebäude 1
 
 Es gibt Kaffee
 
@@ -13,8 +13,8 @@ Es gibt Kaffee
 
 ### Kicker
 
-Yannick: 46
+Yannick: 48
 
-Julius:  53
+Julius:  56
 
 Saison endet am 30.09
