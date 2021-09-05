@@ -13,8 +13,8 @@ Es gibt Kaffee und Wassermelone
 
 ### Kicker
 
-Yannick: 60
+Yannick: 61
 
-Julius:  70
+Julius:  72
 
 Saison endet am 30.09
