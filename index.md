@@ -15,6 +15,6 @@ Es gibt Kaffee und Wassermelone
 
 Yannick: 68
 
-Julius:  79
+Julius:  82
 
 Saison endet am 30.09
