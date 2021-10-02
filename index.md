@@ -13,8 +13,10 @@ Es gibt Kaffee
 
 ### Kicker
 
-Yannick: 75
+Yannick: 0
 
-Julius:  85
+Julius:  0
 
-Saison endet am 30.09
+Saison endet am 28.03.2022
+
+Letzer Sasion Sieger Julius (85:75)
