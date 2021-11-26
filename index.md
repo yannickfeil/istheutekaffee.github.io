@@ -12,9 +12,9 @@ Es gibt Kaffee und Kekse
 
 ### Kicker
 
-Yannick: 0
+Yannick: 4
 
-Julius:  2
+Julius:  4
 
 Saison endet am 28.03.2022
 
