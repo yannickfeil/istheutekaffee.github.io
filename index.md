@@ -6,9 +6,14 @@ um 16:00 Uhr im Raum 306 Gebäude 1
 Es gibt Kaffee und Plätzchen
 
 
+Es gibt danach erst im neuen Jahr wieder Kaffee
+
+Bringt bitte eine Dose mit wenn ihr Plätzchen haben möchtet
+
+
 <!---![image](https://user-images.githubusercontent.com/73311547/125851712-3934142d-7930-4613-8163-7ba796f7bffd.png)-->
 
-[18.12.2021]
+[19.12.2021]
 
 
 ### Kicker
