@@ -1,7 +1,7 @@
 
 # Ja :)
 
-um 16:00 Uhr im Raum 306 Gebäude 1
+um 15:00 Uhr im Raum 306 Gebäude 1
 
 Es gibt Kaffee und Plätzchen
 
