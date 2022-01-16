@@ -14,9 +14,9 @@ Es gibt Kaffee und Kuchen
 
 ### Kicker
 
-Yannick: 10
+Yannick: 12
 
-Julius:  7
+Julius:  9
 
 Saison endet am 28.03.2022
 
