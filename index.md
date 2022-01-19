@@ -4,12 +4,12 @@
 
 um 16:00 Uhr im Raum 306 Gebäude 1
 
-Es gibt Kaffee
+Es gibt Kaffee, aber es wird Milch benötigt
 
 
 <!---![image](https://user-images.githubusercontent.com/73311547/125851712-3934142d-7930-4613-8163-7ba796f7bffd.png)-->
 
-[18.01.2022]
+[19.01.2022]
 
 
 ### Kicker
