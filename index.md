@@ -1,8 +1,8 @@
 
-# Nein :(
+# Ja :)
 
 
-<!--um 16:00 Uhr im Raum 306 Gebäude 1
+um 16:00 Uhr im Raum 306 Gebäude 1
 
 Es gibt Kaffee
 
