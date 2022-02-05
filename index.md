@@ -2,14 +2,14 @@
 # Ja :)
 
 
-um 15:30 Uhr im Raum 306 Gebäude 1
+um 16:00 Uhr im Raum 306 Gebäude 1
 
 Es gibt Kaffee
 
 
 <!---![image](https://user-images.githubusercontent.com/73311547/125851712-3934142d-7930-4613-8163-7ba796f7bffd.png)-->
 
-[04.02.2022]
+[05.02.2022]
 
 
 ### Kicker
