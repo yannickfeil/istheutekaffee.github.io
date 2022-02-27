@@ -9,14 +9,14 @@ Es gibt Kaffee
 
 <!---![image](https://user-images.githubusercontent.com/73311547/125851712-3934142d-7930-4613-8163-7ba796f7bffd.png)-->
 
-[26.02.2022]
+[27.02.2022]
 
 
 ### Kicker
 
-Yannick: 15
+Yannick: 16
 
-Julius:  17
+Julius:  19
 
 Saison endet am 28.03.2022
 
