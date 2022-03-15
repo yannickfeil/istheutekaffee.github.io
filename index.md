@@ -14,9 +14,9 @@ Es gibt Kaffee
 
 ### Kicker
 
-Yannick: 18
+Yannick: 19
 
-Julius:  19
+Julius:  21
 
 Saison endet am 28.03.2022
 
