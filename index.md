@@ -14,10 +14,12 @@ Es gibt Kaffee
 
 ### Kicker
 
-Yannick: 19
+Yannick:   
 
-Julius:  21
+Julius:   
 
-Saison endet am 28.03.2022
+Saison endet am 30.09.2022
 
-Letzer Sasion Sieger Julius (85:75)
+Saison SoSe 21 Sieger Julius (85:75)
+Saison WiSe 21/22 Sieger Julius (21:19)
+
