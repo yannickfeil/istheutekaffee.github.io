@@ -21,5 +21,15 @@ Julius:
 Saison endet am 30.09.2022
 
 Saison SoSe 21 Sieger Julius (85:75)
+
 Saison WiSe 21/22 Sieger Julius (21:19)
+
+
+### Tischtennis
+
+Yannick:
+Julius
+
+Sasion endet am 30.09.2022
+
 
