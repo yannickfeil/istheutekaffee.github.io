@@ -17,6 +17,6 @@ Saison WiSe 21/22 Sieger Julius (21:19)
 
 Yannick:    0
 
-Julius:     0
+Julius:     4
 
 Sasion endet am 30.09.2022
