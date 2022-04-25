@@ -4,7 +4,7 @@
 
 Yannick:    2
 
-Julius:     1
+Julius:     4
 
 Saison endet am 30.09.2022
 
@@ -15,7 +15,7 @@ Saison WiSe 21/22 Sieger Julius (21:19)
 
 ### Tischtennis
 
-Yannick:    0
+Yannick:    1
 
 Julius:     4
 
