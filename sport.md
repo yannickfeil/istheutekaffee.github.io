@@ -20,3 +20,11 @@ Yannick:    1
 Julius:     4
 
 Sasion endet am 30.09.2022
+
+
+### Beerpong
+
+Yannick:    0
+Julius:     2
+
+Sasion endet am 30.09.2022
