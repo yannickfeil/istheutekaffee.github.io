@@ -4,7 +4,7 @@
 
 Yannick:    7
 
-Julius:     7
+Julius:     12
 
 Saison endet am 30.09.2022
 
