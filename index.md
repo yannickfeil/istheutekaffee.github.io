@@ -12,6 +12,6 @@ Es gibt Kaffee
 [23.05.2022]
 
 
-Der Sportteil findet sich unter permalink: /sport.md
+Der Sportteil findet sich unter [Sport](/sport.md)
 
 
