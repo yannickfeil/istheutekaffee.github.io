@@ -7,7 +7,7 @@ um 16:00 Uhr in der Südstraße 21
 Es gibt Kaffee
 
 
-<!---!n Bild vielleicht?-->
+<!---![image] Ein Bild vielleicht?als -->
 
 [27.06.2022]
 
