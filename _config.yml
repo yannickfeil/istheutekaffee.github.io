@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: pages-themes/cayman@v0.2.0
 title: Ist heute Kaffee?
 description: hat das Café heute für Sie geöffnet?
 github:
