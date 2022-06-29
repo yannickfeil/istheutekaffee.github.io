@@ -2,14 +2,14 @@
 # Ja :)
 
 
-um 16:00 Uhr in der Südstraße 21
+um 16:00 Uhr im Zimmer 306 Gebäude 1
 
 Es gibt Kaffee
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[27.06.2022]
+[29.06.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
