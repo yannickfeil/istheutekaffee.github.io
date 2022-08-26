@@ -4,13 +4,13 @@
 
 um 16:00 Uhr im Zimmer 306 Gebäude 1
 
-Es gibt Kaffee und Käsekuchen
+Es gibt Kaffee
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[24.08.2022]
+[26.08.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
