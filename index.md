@@ -2,15 +2,15 @@
 # Ja :)
 
 
-um 16:00 Uhr im Zimmer 306 Gebäude 1
+um 16:00 Uhr in der Südstraße 21
 
-Es gibt Kaffee und Muffins
+Es gibt Kaffee, Kuchen und Eis
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[04.09.2022]
+[06.09.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
