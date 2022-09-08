@@ -2,9 +2,9 @@
 
 ### Kicker
 
-Yannick:    20
+Yannick:    23
 
-Julius:     23
+Julius:     26
 
 Saison endet am 30.09.2022
 
