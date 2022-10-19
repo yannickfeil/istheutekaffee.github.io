@@ -4,13 +4,13 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee und Kuchen
+Es gibt Kaffee
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[17.10.2022]
+[19.10.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
