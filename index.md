@@ -4,13 +4,13 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee
+Es gibt Kaffee und Pumpkin Pie
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[20.10.2022]
+[21.10.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
