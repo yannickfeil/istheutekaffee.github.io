@@ -2,15 +2,17 @@
 
 ### Kicker
 
-Yannick:    23
+Yannick:    0
 
-Julius:     26
+Julius:     3
 
-Saison endet am 30.09.2022
+Saison endet am 31.03.2023
 
 Saison SoSe 21 Sieger Julius (85:75)
 
 Saison WiSe 21/22 Sieger Julius (21:19)
+
+Saison SoSw 22 Sieger Julius (26:23)
 
 
 ### Tischtennis
@@ -19,7 +21,6 @@ Yannick:    1
 
 Julius:     4
 
-Sasion endet am 30.09.2022
 
 
 ### Beerpong
@@ -28,4 +29,3 @@ Yannick:    0
 
 Julius:     2
 
-Sasion endet am 30.09.2022
