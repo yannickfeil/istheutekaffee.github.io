@@ -2,7 +2,7 @@
 # Ja :)
 
 
-um 16:16 Uhr in Raum 306 Gebäude 1
+um 16:00 Uhr in Raum 306 Gebäude 1
 
 Es gibt Kaffee und Pumpkin Pie und Zimtschnecken
 
