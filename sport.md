@@ -2,9 +2,9 @@
 
 ### Kicker
 
-Yannick:    0
+Yannick:    8
 
-Julius:     3
+Julius:     8
 
 Saison endet am 31.03.2023
 
