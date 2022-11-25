@@ -4,13 +4,13 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee, aber es wird Milch benötigt 
+Es gibt Kaffee
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[21.11.2022]
+[25.11.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
