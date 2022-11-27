@@ -2,7 +2,7 @@
 # Ja :)
 
 
-um 16:00 Uhr in Raum 306 Gebäude 1
+um 15:00 Uhr in Raum 306 Gebäude 1
 
 Es gibt Kaffee
 
@@ -10,7 +10,7 @@ Es gibt Kaffee
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[25.11.2022]
+[27.11.2022]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
