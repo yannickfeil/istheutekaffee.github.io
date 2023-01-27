@@ -2,15 +2,15 @@
 # Ja :)
 
 
-um 15:00 Uhr in Raum 306 Gebäude 1
+um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee, aber es wird vorraussichtlich Milch benötigt.
+Es gibt Kaffee und Bananenbrot.
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[20.01.2023]
+[28.01.2023]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
