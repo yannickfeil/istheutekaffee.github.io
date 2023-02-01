@@ -4,13 +4,13 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee und Bananenbrot.
+Es gibt Kaffee.
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[27.01.2023]
+[01.02.2023]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
