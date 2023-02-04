@@ -4,7 +4,7 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee.
+Es gibt Kaffee, aber es wird voraussichtlich Milch benötigt.
 
 
 
