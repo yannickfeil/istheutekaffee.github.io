@@ -10,7 +10,7 @@ Es gibt Kaffee.
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[03.02.2023]
+[04.02.2023]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
