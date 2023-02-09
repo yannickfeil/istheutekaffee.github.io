@@ -4,13 +4,13 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee, aber es wird voraussichtlich Milch benötigt.
+Es gibt Kaffee und Fettgebäck nach Hauptstädter Art.
 
 
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[04.02.2023]
+[09.02.2023]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
