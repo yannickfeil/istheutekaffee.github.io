@@ -4,7 +4,7 @@
 
 um 16:00 Uhr in Raum 306 Gebäude 1
 
-Es gibt Kaffee und Fettgebäck nach Hauptstädter Art.
+Es gibt Kaffee und Kuchen
 
 
 
