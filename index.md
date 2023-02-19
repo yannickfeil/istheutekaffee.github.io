@@ -10,7 +10,7 @@ Es gibt Kaffee und wenn jemand Kuchen mitbringt gibt es auch Kuchen
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[13.02.2023]
+[19.02.2023]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
