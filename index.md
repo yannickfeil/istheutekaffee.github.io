@@ -2,7 +2,7 @@
 # Ja :)
 
 
-um 16:00 Uhr bei Juluis
+um 16:00 Uhr bei Julius
 
 Es gibt Kaffee und wenn jemand Kuchen mitbringt gibt es auch Kuchen
 
