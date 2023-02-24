@@ -2,7 +2,7 @@
 # Ja :)
 
 
-um 16:00 Uhr in der Südstraße
+um 16:00 Uhr bei Juluis
 
 Es gibt Kaffee und wenn jemand Kuchen mitbringt gibt es auch Kuchen
 
@@ -10,7 +10,7 @@ Es gibt Kaffee und wenn jemand Kuchen mitbringt gibt es auch Kuchen
 
 <!---![image] Ein Bild vielleicht?als -->
 
-[22.02.2023]
+[24.02.2023]
 
 
 Der Sportteil findet sich unter [Sport](/sport.md)
